@@ -1,0 +1,12 @@
+.parallax-container {
+    overflow: hidden;
+    position: relative;
+}
+
+.parallax-content {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
